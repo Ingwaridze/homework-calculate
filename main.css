@@ -1,0 +1,8 @@
+.block-diagram {
+  width: 50px;
+  height: 100px;
+  border: 3px solid black;
+}
+.commission-block {
+  background-color: red;
+}
